@@ -1,0 +1,13 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    messagebird-rest (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  messagebird-rest (~> 1.4)
+
+BUNDLED WITH
+   1.16.6
